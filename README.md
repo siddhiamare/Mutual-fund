@@ -123,8 +123,7 @@ Bluestock-MF-Capstone/
 ├── presentation/
 │
 ├── README.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
